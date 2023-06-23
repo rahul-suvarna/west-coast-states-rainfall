@@ -11,10 +11,11 @@
 - To get the data in a state-wise format, the data from the sub-divisions that make up the state were added. For example, data for the state of Maharashtra and Goa was obtained by summing up the data from the Konkan & Goa, Madhya Maharashtra, Marathwada and Vidarbha sub-divisions.
 
 ### Key Insights
-- The states of Maharashtra (including Goa) and Karnataka recieve more than half of the rain in the western coastal region.
+- The states of Maharashtra (including Goa) and Karnataka receive more than half of the rain in the western coastal region.
 - The state of Gujarat receives the lowest amount of rainfall in the western coastal region.
 - A clear pattern of high rainfall between the months of June and September is seen in the data; this corresponds to the monsoon season in India.
 
 ### Limitations
 - A separate data column for the state of Goa does not exist in this dataset because of how sub-division lines were drawn.
 - Similarly, no separate data for the Union Territories of Daman & Diu and Dadra & Nagar Haveli exist; instead, they are included in the sub-divisions that form the state of Gujarat.  
+- Data available only till 2017.
